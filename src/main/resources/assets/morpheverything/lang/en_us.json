@@ -1,0 +1,30 @@
+{
+  "key.categories.morpheverything": "Morph Everything",
+  "key.morpheverything.menu": "Open morph menu",
+  "key.morpheverything.ability": "Form ability (Enderman teleport / Creeper explosion)",
+  "key.morpheverything.reset": "Return to normal form",
+  "key.morpheverything.cycle": "Switch to next recent form",
+
+  "gui.morpheverything.title": "Morph Everything",
+  "gui.morpheverything.search": "Search...",
+  "gui.morpheverything.reset": "Reset form",
+  "gui.morpheverything.current": "Current form: %s",
+  "gui.morpheverything.none": "Normal player",
+  "gui.morpheverything.hint": "Left click: morph  |  Right click or Shift+click: favorite  |  Esc: close",
+  "gui.morpheverything.count": "%s forms shown",
+  "gui.morpheverything.locked": "Locked (kill the mob / break the block)",
+  "gui.morpheverything.unlocked": "Unlocked",
+  "gui.morpheverything.cat.all": "All",
+  "gui.morpheverything.cat.favorites": "Favorites",
+  "gui.morpheverything.cat.recent": "Recent",
+  "gui.morpheverything.cat.animals": "Animals",
+  "gui.morpheverything.cat.monsters": "Monsters",
+  "gui.morpheverything.cat.villagers": "Villagers",
+  "gui.morpheverything.cat.bosses": "Bosses",
+  "gui.morpheverything.cat.blocks": "Blocks",
+  "gui.morpheverything.cat.other": "Other",
+
+  "msg.morpheverything.denied": "You can't use this form (not unlocked or disabled)",
+  "msg.morpheverything.unlocked": "New form unlocked: %s",
+  "msg.morpheverything.ability_disabled": "This ability is disabled in the server config"
+}

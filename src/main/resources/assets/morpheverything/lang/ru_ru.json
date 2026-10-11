@@ -1,0 +1,30 @@
+{
+  "key.categories.morpheverything": "Morph Everything",
+  "key.morpheverything.menu": "Открыть меню превращений",
+  "key.morpheverything.ability": "Способность формы (телепорт эндермена / взрыв крипера)",
+  "key.morpheverything.reset": "Вернуться в обычный вид",
+  "key.morpheverything.cycle": "Следующая из последних форм",
+
+  "gui.morpheverything.title": "Morph Everything",
+  "gui.morpheverything.search": "Поиск...",
+  "gui.morpheverything.reset": "Сбросить форму",
+  "gui.morpheverything.current": "Текущая форма: %s",
+  "gui.morpheverything.none": "Обычный игрок",
+  "gui.morpheverything.hint": "ЛКМ: превратиться  |  ПКМ или Shift+клик: в избранное  |  Esc: закрыть",
+  "gui.morpheverything.count": "Показано форм: %s",
+  "gui.morpheverything.locked": "Закрыто (убей моба / добудь блок)",
+  "gui.morpheverything.unlocked": "Открыто",
+  "gui.morpheverything.cat.all": "Все",
+  "gui.morpheverything.cat.favorites": "Избранное",
+  "gui.morpheverything.cat.recent": "Недавние",
+  "gui.morpheverything.cat.animals": "Животные",
+  "gui.morpheverything.cat.monsters": "Монстры",
+  "gui.morpheverything.cat.villagers": "Жители",
+  "gui.morpheverything.cat.bosses": "Боссы",
+  "gui.morpheverything.cat.blocks": "Блоки",
+  "gui.morpheverything.cat.other": "Другое",
+
+  "msg.morpheverything.denied": "Эту форму нельзя использовать (не открыта или отключена)",
+  "msg.morpheverything.unlocked": "Открыта новая форма: %s",
+  "msg.morpheverything.ability_disabled": "Эта способность отключена в конфиге сервера"
+}
